@@ -84,7 +84,7 @@ public class SpringTest extends BaseTest {
 
 ```
 
-> [color=#4ddde2]啟動 : 整個專案 run as  junit test
+> [color=#00f]啟動 : 整個專案 run as  junit test
 
 #### **SpringMVC**
 
@@ -335,6 +335,13 @@ public class UserController {
 
 
 # **SSM(二) 按爛功能實作**
+
+#### **Maven.pom配置**
+```
+最終版
+```
+
+
 #### **持久化類**
 
 > [color=#6f6f6f]user
